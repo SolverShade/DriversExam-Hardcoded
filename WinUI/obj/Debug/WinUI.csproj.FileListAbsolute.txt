@@ -1,0 +1,10 @@
+C:\Users\HarambeCrompten\source\repos\DLExam\WinUI\obj\Debug\WinUI.Properties.Resources.resources
+C:\Users\HarambeCrompten\source\repos\DLExam\WinUI\obj\Debug\WinUI.csproj.GenerateResource.cache
+C:\Users\HarambeCrompten\source\repos\DLExam\WinUI\obj\Debug\WinUI.csproj.CoreCompileInputs.cache
+C:\Users\HarambeCrompten\source\repos\DLExam\WinUI\bin\Debug\WinUI.exe.config
+C:\Users\HarambeCrompten\source\repos\DLExam\WinUI\bin\Debug\WinUI.exe
+C:\Users\HarambeCrompten\source\repos\DLExam\WinUI\bin\Debug\WinUI.pdb
+C:\Users\HarambeCrompten\source\repos\DLExam\WinUI\obj\Debug\WinUI.exe
+C:\Users\HarambeCrompten\source\repos\DLExam\WinUI\obj\Debug\WinUI.pdb
+C:\Users\HarambeCrompten\source\repos\DLExam\WinUI\obj\Debug\WinUI.csproj.AssemblyReference.cache
+C:\Users\HarambeCrompten\source\repos\DLExam\WinUI\obj\Debug\WinUI.GradeFourm.resources
